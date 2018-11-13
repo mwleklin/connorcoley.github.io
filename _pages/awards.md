@@ -7,6 +7,11 @@ author_profile: true
 
 <table>
   
+      <tr><th>2018</th><td>
+Forbes 30 Under 30 2019: Healthcare<br>
+<a href="https://www.forbes.com/30-under-30/2019/healthcare/" target="_blank" style="color:blue">[Info]</a><br>
+  </td></tr>
+  
     <tr><th>2018</th><td>
 Pharmaceutical Discovery, Development and Manufacturing (PD2M) Student Award<br>
 <em>For &ldquo;outstanding contributions to the field of pharmaceutical discovery, development or manufacturing&rdquo;</em> <a href="https://www.aiche.org/community/awards/aiche-pd2m-student-award" target="_blank" style="color:blue">[Info]</a><br>
