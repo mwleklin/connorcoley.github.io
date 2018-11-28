@@ -10,11 +10,14 @@ author_profile: true
 <table>
   
   <tr><th>2018</th><td>
-    <a href="https://doi.org/10.26434/chemrxiv.7163189.v1" target="_blank"><u>Coley, C. W.</u>, Jin, W., Rogers, L., Jamison, T. F., Jaakkola, T. S., Green, W. H., Barzilay, R., Jensen, K. F. &ldquo;A graph-convolutional neural network model for the prediction of chemical reactivity&rdquo; <em>ChemRxiv preprint. </em>(<strong>2018</strong>).</a>  <a style="color:blue" href="https://github.com/connorcoley/rexgen_direct" target="_blank">[code]</a> 
+    <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04228d" target="_blank"><u>Coley, C. W.</u>, Jin, W., Rogers, L., Jamison, T. F., Jaakkola, T. S., Green, W. H., Barzilay, R., Jensen, K. F. &ldquo;A graph-convolutional neural network model for the prediction of chemical reactivity&rdquo; <em>Chem. Sci. </em>(<strong>2018</strong>).</a>  <a style="color:blue" href="https://github.com/connorcoley/rexgen_direct" target="_blank">[code]</a> <a style="color:blue" href="https://doi.org/10.26434/chemrxiv.7163189.v1" target="_blank">[preprint]</a>
+  </td></tr>
+  
+<a href="https://pubs.acs.org/doi/10.1021/acscentsci.8b00357" target="_blank">Gao, H., Struble, T. S., <u>Coley, C. W</u>., Wang, Y., Green, W. H., Jensen, K. F. &ldquo;Using machine learning to predict suitable conditions for organic reactions.&rdquo; <em>ACS Cent. Sci. </em><strong>4</strong>(11), 1465-1476 (<strong>2018</strong>).</a> <a style="color:blue" href="https://github.com/Coughy1991/Reaction_condition_recommendation" target="_blank">[code]</a>
   </td></tr>
   
   <tr><th></th><td>
-<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cc/c8cc04650f" target="_blank">Zhu, C., Raghuvanshi, K., <u>Coley, C. W</u>., Mason, D., Rodgers, J., Janka, M. E., Abolhasani, M. &ldquo;Flow chemistry-enabled studies of rhodium-catalyzed hydroformylation reactions.&rdquo; <em>Chem. Comm. </em>(<strong>2018</strong>).</a>
+<a href="http://pubs.rsc.org/en/content/articlelanding/2018/cc/c8cc04650f" target="_blank">Zhu, C., Raghuvanshi, K., <u>Coley, C. W</u>., Mason, D., Rodgers, J., Janka, M. E., Abolhasani, M. &ldquo;Flow chemistry-enabled studies of rhodium-catalyzed hydroformylation reactions.&rdquo; <em>Chem. Comm. </em><strong>54</strong>(62), 8567-8570 (<strong>2018</strong>).</a>
   </td></tr>
   
   <tr><th></th><td>
