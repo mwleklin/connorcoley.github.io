@@ -5,3 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
+Hello
+
+This is stupid.
