@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-**2019** &nbsp; &nbsp; &nbsp;  Ph.D. Analytical Chemistry, _Purdue University_ 
+**2019** &nbsp; &nbsp; &nbsp;  Ph.D. Analytical Chemistry, _Purdue University_ <br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   GPA: 4.0/4.0 
 
