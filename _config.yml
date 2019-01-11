@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Connor W. Coley"
+title                    : "Michael Wleklinski"
 title_separator          : "-"
-name                     : &name "Connor W. Coley"
+name                     : &name "Michael Wleklinski "
 description              : &description "Academic website"
 url                      : https://mwleklin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Connor W. Coley"
-  avatar           : "Headshot June 2018 square low quality.jpg"
-  bio              : "Chemical Engineering @ MIT"
+  name             : "Michael Wleklinski"
+  avatar           : 
+  bio              : "Engineering Postdoc @ Eli Lilly and Company"
   location         : "Cambridge, MA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=l015S80AAAAJ&hl=en"
-  email            : "ccoley@mit.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=x7s9KK8AAAAJ&hl=en"
+  email            : "m.wleklinski@lilly.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "connorcoley"
+  github           : "mwleklin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "connorcoley"
-  orcid            : "https://orcid.org/0000-0002-8271-8723"
+  linkedin         : "michael-wleklinski-946b3775"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "cwcoley"
+  twitter          : "mwleklin"
   vine             :
   weibo            :
   xing             :
