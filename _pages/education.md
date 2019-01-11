@@ -5,6 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-Hello
+**2019**   Ph.D. Analytical Chemistry, _Purdue University_
+                GPA: 4.0/4.0
 
-This is stupid.
+
