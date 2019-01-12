@@ -65,7 +65,7 @@ author_profile: true
     </td></tr>
     
    <tr><th>2012</th><td> 
-<a href = "https://pubs.rsc.org/en/content/articlelanding/2012/an/c2an16163j/unauth#!divAbstract" target ="_blank"> Cyriac, J.; <u>Wleklinski, M.</u>; Li, G.; Gao, L.; Cooks, R. G., In situ Raman spectroscopy of surfaces modified by ion soft landing. <em>Analyst</em> <strong>2012</strong>, 137 (6), 1363-1369.
-      </td></tr>
+<a href = "https://pubs.rsc.org/en/content/articlelanding/2012/an/c2an16163j/unauth#!divAbstract" target ="_blank"> Cyriac, J.; <u>Wleklinski, M.</u>; Li, G.; Gao, L.; Cooks, R. G., In situ Raman spectroscopy of surfaces modified by ion soft landing. <em>Analyst</em> <strong>2012</strong>, 137 (6), 1363-1369. </a>
+    </td></tr>
 
 </table>
