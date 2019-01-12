@@ -69,3 +69,5 @@ author_profile: true
     </td></tr>
 
 </table>
+
+*These authors contributed equally. 
