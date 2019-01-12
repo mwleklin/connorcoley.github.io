@@ -16,6 +16,6 @@ author_profile: true
   </td></tr>
   
    <tr><th></th><td>  
-  <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2018/SC/C7SC04606E#!divAbstract" target ="_blank"><u>Wleklinski, M.</u>; Loren, B. P.; Ferreira, C. R.; Jaman, Z.; Avramova, L.; Sobreira, T. J. P.; Thompson, D. H.; Cooks, R. G., High throughput reaction screening using desorption electrospray ionization mass spectrometry. <em>Chemical Science</em> **2018**, 9 (6), 1647-1653.</a>
+  <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2018/SC/C7SC04606E#!divAbstract" target ="_blank"><u>Wleklinski, M.</u>; Loren, B. P.; Ferreira, C. R.; Jaman, Z.; Avramova, L.; Sobreira, T. J. P.; Thompson, D. H.; Cooks, R. G., High throughput reaction screening using desorption electrospray ionization mass spectrometry. <em>Chemical Science</em> <strong>2018</strong>, 9 (6), 1647-1653.</a>
    </td></tr>
   
