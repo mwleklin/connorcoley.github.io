@@ -30,4 +30,15 @@ author_profile: true
    <tr><th>2016</th><td> 
 <a href ="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201601270" target ="_blank">     
   <u>Wleklinski, M.</u>; Falcone, C. E.; Loren, B. P.; Jaman, Z.; Iyer, K.; Ewan, H. S.; Hyun, S.-H.; Thompson, D. H.; Cooks, R. G., Can Accelerated Reactions in Droplets Guide Chemistry at Scale? <em>European Journal of Organic Chemistry</em> <strong>2016</strong>, 2016 (33), 5480-5484. </a>
-   </td></tr> 
+   </td></tr>
+
+   <tr><th></th><td> 
+  <a href ="https://www.sciencedirect.com/science/article/pii/S0021967316309335" target ="_blank">  Li, Y.; Wang, J.; Zhan, L.; <u>Wleklinski, M.</u>; Wang, J.; Xiong, C.; Liu, H.; Zhou, Y.; Nie, Z., The bridge between thin layer chromatography-mass spectrometry and high-performance liquid chromatography-mass spectrometry: The realization of liquid thin layer chromatography-mass spectrometry. <em>Journal of Chromatography A</em> <strong>2016</strong>, 1460, 181-189. </a>
+     </td></tr>
+    
+   <tr><th></th><td> 
+  <a href ="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201505127" target ="_blank"> Sarkar, D.; Mahitha, M. K.; Som, A.; Li, A.; <u>Wleklinski, M.</u>; Cooks, R. G.; Pradeep, T., Metallic Nanobrushes Made using Ambient Droplet Sprays. <em>Advanced Materials</em> <strong>2016</strong>, 28 (11), 2223-2228. </a>
+     </td></tr>
+    
+   <tr><th></th><td>   
+  <a href ="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b01596" target ="_blank">  Narayanan, R.; Sarkar, D.; Som, A.; <u>Wleklinski, M.</u>; Cooks, R. G.; Pradeep, T., Anisotropic Molecular Ionization at 1 V from Tellurium Nanowires (Te NWs). <em>Analytical Chemistry</em> <strong>2015</strong>, 87 (21), 10792-10798. </a>
