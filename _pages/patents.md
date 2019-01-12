@@ -19,7 +19,7 @@ author_profile: true
   <a href="https://patents.google.com/patent/US9786478B2/en?inventor=Michael+Stanley+Wleklinski" target ="_blank"> Cooks, R. G.; <u>Wleklinski, M. S.</u>; Bag, S.; Li, Y. Zero voltage mass spectrometry probes and systems. US Patent, US9786478B2, <strong>2017</strong>. </a>
   </td></tr>
   
-   <tr><th></th><td>,
+   <tr><th></th><td>
   <a href ="https://inventions.prf.org/innovation/6427" target ="_blank"> Cooks, R. G.; Ferreira, C. R., <u>Wleklinksi, M. S.</u> Automated Rapid Reaction Screening by DESI-MS US Patent App. <strong>2017</strong>.
   </td></tr>
 </table>
