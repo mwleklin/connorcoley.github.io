@@ -44,3 +44,28 @@ author_profile: true
   <a href ="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b01596" target ="_blank">  Narayanan, R.; Sarkar, D.; Som, A.; <u>Wleklinski, M.</u>; Cooks, R. G.; Pradeep, T., Anisotropic Molecular Ionization at 1 V from Tellurium Nanowires (Te NWs). <em>Analytical Chemistry</em> <strong>2015</strong>, 87 (21), 10792-10798. </a>
      </td></tr>
     
+   <tr><th></th><td> 
+<a href = "https://pubs.acs.org/doi/abs/10.1021/acs.analchem.5b01225" target ="_blank"> <u>Wleklinski, M.</u>; Li, Y.; Bag, S.; Sarkar, D.; Narayanan, R.; Pradeep, T.; Cooks, R. G., Zero Volt Paper Spray Ionization and Its Mechanism. <em>Analytical Chemistry</em> <strong>2015</strong>, 87 (13), 6786-6793. </a>
+     </td></tr>
+    
+   <tr><th></th><td>  
+ <a href = "https://www.sciencedirect.com/science/article/pii/S1387380614002863" target ="_blank"> Cooks, R. G.; Jarmusch, A. K.; <u>Wleklinski, M.</u>, Direct analysis of complex mixtures by mass spectrometry. <em>International Journal of Mass Spectrometry</em> <strong>2015</strong>, 377, 709-718. </a>
+     </td></tr>
+    
+   <tr><th></th><td> 
+<a href = "https://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp01538c/unauth#!divAbstract" target ="_blank">  <u>Wleklinski, M.</u>; Sarkar, D.; Hollerbach, A.; Pradeep, T.; Cooks, R. G., Ambient preparation and reactions of gas phase silver cluster cations and anions. <em>Physical Chemistry Chemical Physics</em> <strong>2015</strong>, 17 (28), 18364-18373. </a>
+     </td></tr>
+    
+   <tr><th>2014</th><td> 
+<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165993614000405" target ="_blank"> Espy, R. D.; <u>Wleklinski, M.</u>; Yan, X.; Cooks, R. G., Beyond the flask: Reactions on the fly in ambient mass spectrometry. <em>TrAC Trends in Analytical Chemistry</em> <strong>2014</strong>, 57, 135-146. </a>
+     </td></tr>
+    
+   <tr><th>2013</th><td> 
+<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/rcm.6435" target ="_blank"> Dalgleish, J. K.; <u>Wleklinski, M.</u>; Shelley, J. T.; Mulligan, C. C.; Ouyang, Z.; Graham Cooks, R., Arrays of low-temperature plasma probes for ambient ionization mass spectrometry. <em>Rapid Communications in Mass Spectrometry</em> <strong>2013</strong>, 27 (1), 135-142. </a>
+    </td></tr>
+    
+   <tr><th>2012</th><td> 
+<a href = "https://pubs.rsc.org/en/content/articlelanding/2012/an/c2an16163j/unauth#!divAbstract" target ="_blank"> Cyriac, J.; <u>Wleklinski, M.</u>; Li, G.; Gao, L.; Cooks, R. G., In situ Raman spectroscopy of surfaces modified by ion soft landing. <em>Analyst</em> <strong>2012</strong>, 137 (6), 1363-1369.
+      </td></tr>
+
+</table>
