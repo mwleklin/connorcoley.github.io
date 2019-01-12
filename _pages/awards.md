@@ -36,7 +36,7 @@ Student Fellowship Nanoscale Imaging for Energy Applications
   </td></tr>
   
    <tr><th>2009-2010</th><td>
-Purdue Student Cluster Competition	
+  <a href="https://www.rcac.purdue.edu/scc/2009scc/" target ="_blank">Purdue Student Cluster Competition	<a style="color:blue" href="https://www.purdue.edu/uns/x/2009b/091123EvansChallenge.html" target="_blank">[Press]</a> <a style="color:blue" href="https://www.rcac.purdue.edu/news/405" target="_blank">[Press]</a>
   </td></tr>
   
    <tr><th>2009</th><td>
