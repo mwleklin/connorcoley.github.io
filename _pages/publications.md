@@ -27,7 +27,7 @@ author_profile: true
   <a href ="https://pubs.rsc.org/en/Content/ArticleLanding/2017/SC/C7SC00905D#!divAbstract" target ="_blank"> Loren, B. P.*; <u>Wleklinski, M.*</u>; Koswara, A.*; Yammine, K.; Hu, Y.; Nagy, Z. K.; Thompson, D. H.; Cooks, R. G., Mass spectrometric directed system for the continuous-flow synthesis and purification of diphenhydramine. <em>Chemical Science</em> <strong>2017</strong>, 8 (6), 4363-4370. </a>
    </td></tr> 
   
-     <tr><th>2016</th><td> 
+   <tr><th>2016</th><td> 
 <a href ="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201601270" target ="_blank">     
   <u>Wleklinski, M.</u>; Falcone, C. E.; Loren, B. P.; Jaman, Z.; Iyer, K.; Ewan, H. S.; Hyun, S.-H.; Thompson, D. H.; Cooks, R. G., Can Accelerated Reactions in Droplets Guide Chemistry at Scale? <em>European Journal of Organic Chemistry</em> <strong>2016</strong>, 2016 (33), 5480-5484. </a>
-     </td></tr> 
+   </td></tr> 
