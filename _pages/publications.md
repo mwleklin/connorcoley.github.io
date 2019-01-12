@@ -16,6 +16,6 @@ author_profile: true
   </td></tr>
   
    <tr><th></th><td>  
-
+<a href ="https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201704520" target ="_blank"> Wei, Z.; <u>Wleklinski, M.</u>; Ferreira, C.; Cooks, R. G., Reaction Acceleration in Thin Films with Continuous Product Deposition for Organic Synthesis. <em>Angewandte Chemie</em> <strong>2017</strong>, 129 (32), 9514-9518.
    </td></tr>
   
