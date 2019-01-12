@@ -23,4 +23,6 @@ author_profile: true
   <a href ="https://pubs.rsc.org/en/content/articlelanding/2017/an/c7an00622e/unauth#!divAbstract" target ="_blank"> Falcone, C. E.; Jaman, Z.; <u>Wleklinski, M.</u>; Koswara, A.; Thompson, D. H.; Cooks, R. G., Reaction screening and optimization of continuous-flow atropine synthesis by preparative electrospray mass spectrometry. <em>Analyst</em> <strong>2017</strong>, 142 (15), 2836-2845. </a>
   </td></tr>
   
+   <tr><th></th><td> 
+  <a href ="https://pubs.rsc.org/en/Content/ArticleLanding/2017/SC/C7SC00905D#!divAbstract" target ="_blank"> Loren, B. P.*; <u>Wleklinski, M.*</u>; Koswara, A.*; Yammine, K.; Hu, Y.; Nagy, Z. K.; Thompson, D. H.; Cooks, R. G., Mass spectrometric directed system for the continuous-flow synthesis and purification of diphenhydramine. <em>Chemical Science</em> <strong>2017</strong>, 8 (6), 4363-4370.
   
