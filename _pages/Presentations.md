@@ -82,4 +82,3 @@ author_profile: true
 
 
 
-</table>
