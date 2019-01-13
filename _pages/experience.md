@@ -25,6 +25,8 @@ author_profile: true
   <li>	Expert in writing technical reports and grants
 <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
 <li style="margin-left:2em">DOE, NSF, and DARPA grants accepted</li>
+</ol>
+</li>
   <li>	Patent: Systems and methods for increasing reaction yield</li>
   <li>	Patent: Zero voltage mass spectrometry probes and systems</li>
 
