@@ -6,9 +6,14 @@ author_profile: true
 ---
 
 <table>
- <tr><th>2015-2017</th><td>
-    Mentored two undegraduates (Kathryn Yammine and Yanyang Hu) which resulted in a joint publication.
-  </td></tr>
+ <tr><th>2015-2017     Mentored two undegraduates (Kathryn Yammine and Yanyang Hu) </th></tr>
+  <tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+ <li>Resulted in joint publication</li>  
+ <li>One pursuing PhD at MIT</li>
+ 
+</ul>
+</td></tr>
 
 <table>
  <tr><th>2011-2016 Volunteer Teaching Assistant Purdue University</th></tr>
