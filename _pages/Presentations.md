@@ -9,7 +9,6 @@ author_profile: true
 <table>
   
 
-  
   <tr><th>2018</th><td>
   <u>Michael Wleklinski</u> and Brandon J. Reizman, “Reaction Screening in an Automated Droplet Screening System for Pharmaceutical Process Development” 2018 American Institute of Chemical Engineers Annual Meeting, Pittsburg, Pennsylvania, October 2018, <em>Oral</em>. 
   </td></tr>
@@ -80,4 +79,7 @@ author_profile: true
    <tr><th>2007</th><td>
   <u>Michael Wleklinski</u> and George S. Devendorf, “The Role of Dipole Moments and Polarizabilities in non-additive Solution Densities”, 39th Central Regional Meetings of the American Chemical Society, Covington, KY, May, 2007, <em>Poster</em>.
   </td></tr>     
+
+
+
 </table>
