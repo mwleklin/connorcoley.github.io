@@ -48,7 +48,7 @@ author_profile: true
 
 <tr>
 	<th>Visiting Scholar, Department of Chemistry Indian Institute of Technology Madras</th>
-	<th style="text-align:right">May 2017 – Present</th>
+	<th style="text-align:right">Jan – April 2015</th>
 </tr>
 <tr><td colspan="2"><em>Chennai, Tamil Nadu, India</em></td></tr>
 <tr><td colspan="2">
@@ -58,3 +58,75 @@ author_profile: true
 </ul>
 </td></tr>
 
+<tr>
+	<th>Visiting Scientist, Max Planck Institute for Solid State Research</th>
+	<th style="text-align:right">August 2014</th>
+</tr>
+<tr><td colspan="2"><em>Stuttgart, Germany</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li>	Mentored by Professor Klaus Kern and Stephan Rauschenbach </li>
+  <li> Deposition of atomically precise metal cluster ions onto surfaces 
+in ultra-high vacuum to study their chemical properties using STM.</li>
+</ul>
+</td></tr>
+
+<tr>
+	<th>Visiting Scientist, University of Gießen</th>
+	<th style="text-align:right">September 2014</th>
+</tr>
+<tr><td colspan="2"><em>Gießen, Germany</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li>	Visitor in professor Bernhard Spengler’s laboratory </li>
+  <li> Gained expertise in atmospheric pressure MALD imaging</li>
+</ul>
+</td></tr>
+
+<tr>
+	<th>Undergraduate Research Assistant, Chemistry Theory Group</th>
+	<th style="text-align:right">Apr 2009 - Dec 2010</th>
+</tr>
+<tr><td colspan="2"><em>Purdue University</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li> Undergraduate research with Dr. Adam Wasserman </li>
+  <li> Calculated energy levels of simple diatomic molecules using Numerov's method in order to explain anomalous dipole moments</li>
+</ul>
+</td></tr>
+
+<tr>
+	<th>Steam Plant Chemistry Intern, Bechtel Marine Propulsions Corporation</th>
+	<th style="text-align:right">May - Aug 2010</th>
+</tr>
+<tr><td colspan="2"><em>West Mifflin, PA</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li> Researched chemistry control of pressurized water reactors, in order to support acceptance testing of vendor equipment.  </li>
+  <li> Held a national security clearance (L-level). </li>
+</ul>
+</td></tr>
+
+<tr>
+	<th>Q.A. Chemistry Intern, Cargill Corn Milling North America</th>
+	<th style="text-align:right">May - Aug 2009</th>
+</tr>
+<tr><td colspan="2"><em>West Mifflin, PA</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li> Worked daily with HPLC, FTIR, NIR, and GC for sample analysis. </li>
+  <li> Developed an analysis method for protein in Heavy Gluten samples. </li>
+</ul>
+</td></tr>
+
+<tr>
+	<th>REU Student, Purdue Computer Science Department</th>
+	<th style="text-align:right">Aug 2008 - May 2009</th>
+</tr>
+<tr><td colspan="2"><em>West Mifflin, PA</em></td></tr>
+<tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+  <li> Created projects and assignments for a computational based programming class. </li>
+  <li> Utilized python programming language to develop a model of bird behavior. </li>
+</ul>
+</td></tr>
