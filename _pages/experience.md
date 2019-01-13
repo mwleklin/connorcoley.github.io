@@ -111,7 +111,7 @@ in ultra-high vacuum to study their chemical properties using STM.</li>
 	<th>Q.A. Chemistry Intern, Cargill Corn Milling North America</th>
 	<th style="text-align:right">May - Aug 2009</th>
 </tr>
-<tr><td colspan="2"><em>West Mifflin, PA</em></td></tr>
+<tr><td colspan="2"><em>Dayton, OH</em></td></tr>
 <tr><td colspan="2">
 <ul style="margin-top:0px; padding-top:0px">
   <li> Worked daily with HPLC, FTIR, NIR, and GC for sample analysis. </li>
@@ -123,7 +123,7 @@ in ultra-high vacuum to study their chemical properties using STM.</li>
 	<th>REU Student, Purdue Computer Science Department</th>
 	<th style="text-align:right">Aug 2008 - May 2009</th>
 </tr>
-<tr><td colspan="2"><em>West Mifflin, PA</em></td></tr>
+<tr><td colspan="2"><em>Purdue University</em></td></tr>
 <tr><td colspan="2">
 <ul style="margin-top:0px; padding-top:0px">
   <li> Created projects and assignments for a computational based programming class. </li>
