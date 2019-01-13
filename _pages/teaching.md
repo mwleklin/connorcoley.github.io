@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching & mentorship/
+title: "Teaching & Mentorship"
+permalink: /teaching/
 author_profile: true
 ---
 
