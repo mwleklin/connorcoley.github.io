@@ -20,7 +20,9 @@ author_profile: true
 </td></tr>
 
 <table>
- <tr><th>2011</th><td>
-    Teaching Assistant Purdue University<br>
-   *CHM 115 General Chemistry
-  </td></tr>
+ <tr><th>2011 Teaching Assistant Purdue University</th></tr>
+     <tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
+ *CHM 115 General Chemistry
+</ul>
+</td></tr>
