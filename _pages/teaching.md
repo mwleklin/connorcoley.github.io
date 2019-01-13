@@ -7,15 +7,18 @@ author_profile: true
 
 <table>
  <tr><th>2015-2017</th><td>
-    Directly mentored two undegraduates (Kathryn Yammine and Yanyang Hu) which resulted in a joint publication
+    Mentored two undegraduates (Kathryn Yammine and Yanyang Hu) which resulted in a joint publication.
   </td></tr>
 
 <table>
- <tr><th>2011-2016</th><td>
+ <tr><th>2011-2016</th></tr>
+  <tr><td colspan="2">
+<ul style="margin-top:0px; padding-top:0px">
     Volunteer Teaching Assistant Purdue University<br>
    *CHM 424 Instruemental Analysis<br>
    *CHM 494 Junior-Senior Chemistry Seminar
-  </td></tr>
+</ul>
+</td></tr>
 
 <table>
  <tr><th>2011</th><td>
