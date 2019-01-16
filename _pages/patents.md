@@ -20,6 +20,6 @@ author_profile: true
   </td></tr>
   
    <tr><th></th><td>
-  <a href ="https://inventions.prf.org/innovation/6427" target ="_blank"> Cooks, R. G.; Ferreira, C. R., <u>Wleklinksi, M. S.</u> Automated Rapid Reaction Screening by DESI-MS US Patent App. <strong>2017</strong>.
+  <a href ="https://inventions.prf.org/innovation/6427" target ="_blank"> Cooks, R. G.; Ferreira, C. R., <u>Wleklinksi, M. S.</u> Automated Rapid Reaction Screening by DESI-MS US Patent App. <strong>2017</strong>. </a>
   </td></tr>
 </table>
